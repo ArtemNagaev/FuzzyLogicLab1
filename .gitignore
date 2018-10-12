@@ -1,0 +1,15 @@
+FuzzyLogic/Binaries
+FuzzyLogic/DerivedDataCache
+FuzzyLogic/Intermediate
+FuzzyLogic/Saved
+FuzzyLogic/Build
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
